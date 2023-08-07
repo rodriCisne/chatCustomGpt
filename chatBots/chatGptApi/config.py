@@ -1,0 +1,2 @@
+api_key = "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"
+api_key_pandas_ai = "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"
